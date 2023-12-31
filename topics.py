@@ -1,0 +1,1 @@
+topics = ['temperature', 'humidity', 'air']
